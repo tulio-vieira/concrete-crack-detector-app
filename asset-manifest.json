@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/concrete-crack-detector-app/static/css/main.0eb40d45.chunk.css",
-    "main.js": "/concrete-crack-detector-app/static/js/main.d0f117da.chunk.js",
-    "main.js.map": "/concrete-crack-detector-app/static/js/main.d0f117da.chunk.js.map",
+    "main.js": "/concrete-crack-detector-app/static/js/main.fb5f19bd.chunk.js",
+    "main.js.map": "/concrete-crack-detector-app/static/js/main.fb5f19bd.chunk.js.map",
     "runtime-main.js": "/concrete-crack-detector-app/static/js/runtime-main.361d6ca9.js",
     "runtime-main.js.map": "/concrete-crack-detector-app/static/js/runtime-main.361d6ca9.js.map",
     "static/js/2.11696d97.chunk.js": "/concrete-crack-detector-app/static/js/2.11696d97.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.361d6ca9.js",
     "static/js/2.11696d97.chunk.js",
     "static/css/main.0eb40d45.chunk.css",
-    "static/js/main.d0f117da.chunk.js"
+    "static/js/main.fb5f19bd.chunk.js"
   ]
 }
